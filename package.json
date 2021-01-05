@@ -9,7 +9,7 @@
     "@ckeditor/ckeditor5-heading": "^10.1.1",
     "@ckeditor/ckeditor5-paragraph": "^10.0.4",
     "@ckeditor/ckeditor5-react": "^1.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
